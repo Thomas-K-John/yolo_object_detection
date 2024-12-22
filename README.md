@@ -6,6 +6,7 @@
 
 ## To upgrade pip (Optional)
 	python -m pip install --upgrade pip 
+ 	pip install --upgrade pip
 
 ## Activate the environment (Windows machine):
 	.\<env_name>\Scripts\activate

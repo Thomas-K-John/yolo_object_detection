@@ -5,7 +5,6 @@
 	Eg: python -m venv yolo_object_detection
 
 ## To upgrade pip (Optional)
-	python -m pip install --upgrade pip 
  	pip install --upgrade pip
 
 ## Activate the environment (Windows machine):

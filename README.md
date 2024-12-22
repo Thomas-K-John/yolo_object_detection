@@ -15,4 +15,5 @@
 	pip install fastapi uvicorn
 ## Install yolo package
 	pip install ultralytics
+ 	pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
 

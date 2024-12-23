@@ -1,0 +1,4 @@
+yolo_object_detection/
+__pycache__/
+
+*.env

@@ -20,4 +20,7 @@
 ## To create and run a docker container:
 	docker-compose up --build
 
+## Swagger UI for uploading the image and to collect the output response in JSON format:
+	http://127.0.0.1:8000/docs
+
 

@@ -17,3 +17,7 @@
 	pip install ultralytics
  	pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
 
+## To create and run a docker container:
+	docker-compose up --build
+
+

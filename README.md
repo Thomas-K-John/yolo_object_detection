@@ -17,10 +17,13 @@
 	pip install ultralytics
  	pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
 
-## To create and run a docker container:
-	docker-compose up --build
+## To run the app locally:
+	uvicorn main:app --reload --port=8000 --host=0.0.0.0
 
 ## Swagger UI for uploading the image and to collect the output response in JSON format:
 	http://127.0.0.1:8000/docs
+
+## To create and run a docker container:
+	docker-compose up --build
 
 
